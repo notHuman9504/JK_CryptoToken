@@ -33,7 +33,7 @@ This project implements the JK Token (JK), an ERC-20 compliant token on the Ethe
 
 1. Clone the repository:
    ```
-   git clone https://github.com/YashKakadiya008/ydk-token-sale.git
+   git clone https://github.com/notHuman9504/JK_CryptoToken.git
    cd ydk-token-sale
    ```
 
@@ -90,7 +90,11 @@ This project is licensed under the MIT License.
 ## Acknowledgments
 
 - OpenZeppelin for secure smart contract standards
-- Ethereum community for continuous support and development 
+- Ethereum community for continuous support and development
+
+  ![image](https://github.com/user-attachments/assets/479ce0cf-9770-46d2-a46a-3c2a4f6fb69e)
+  ![image](https://github.com/user-attachments/assets/1a9ff865-5605-4f6d-82f0-9b771c8d8e87)
+
 
 
 
